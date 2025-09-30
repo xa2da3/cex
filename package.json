@@ -41,7 +41,7 @@
     "request": "^2.88.2",
     "sqlite3": "^5.1.6",
     "web-vitals": "^1.0.1",
-    "web3": "^1.6.1"
+    "web3": "^4.0.1"
   },
   "scripts": {
     "client": "craco  start",
