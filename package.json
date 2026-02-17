@@ -10,7 +10,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "antd": "^4.16.13",
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "bip39": "^3.0.4",
     "concurrently": "^8.2.0",
     "country-data": "0.0.31",
@@ -36,12 +36,12 @@
     "react-icons": "^4.3.1",
     "react-loading": "^2.0.3",
     "react-router-dom": "^6.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "recharts": "^2.1.6",
     "request": "^2.88.2",
     "sqlite3": "^5.1.6",
     "web-vitals": "^1.0.1",
-    "web3": "^1.6.1"
+    "web3": "^4.0.1"
   },
   "scripts": {
     "client": "craco  start",
